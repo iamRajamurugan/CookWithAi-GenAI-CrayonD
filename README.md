@@ -27,6 +27,6 @@ This chatbot is designed to make meal planning simpler and smarter, offering per
 
 
 
-** CRAYON-D genai project **
+**CRAYON-D genai project**
 
 
